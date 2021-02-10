@@ -1,2 +1,6 @@
 # character_converter
-Simple template for building microservices using GoKit
+Simple character conversion service:
+
+### Available translations:
+ 1. Text -> Morse
+
